@@ -6,3 +6,10 @@
 ### Another subsection
 
 This is actually the very first message I am putting on this repo .
+
+<div align="center">
+
+# My Centered Section
+
+</div>
+
